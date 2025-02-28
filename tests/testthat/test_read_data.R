@@ -34,4 +34,11 @@ describe("Test 2006 data", {
     n_rows_expected <- 22
     expect_equal(n_rows_expected, n_rows_obtained)
   })
+  it("Read 2021 data", {
+    path <- "/workdir/tests/data/diputados_2021.txt"
+    obtained <- read_deputy_data(path)
+    n_rows_obtained <- nrow(obtained)
+    n_rows_expected <- 29
+    expect_equal(n_rows_expected, n_rows_obtained)
+  })
 })
