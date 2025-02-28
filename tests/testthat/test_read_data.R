@@ -20,4 +20,11 @@ describe("Test 2006 data", {
     n_rows_expected <- 13
     expect_equal(n_rows_expected, n_rows_obtained)
   })
+  it("Read 2015 data", {
+    path <- "/workdir/tests/data/diputados_2015.txt"
+    obtained <- read_deputy_data(path)
+    n_rows_obtained <- nrow(obtained)
+    n_rows_expected <- 17
+    expect_equal(n_rows_expected, n_rows_obtained)
+  })
 })
