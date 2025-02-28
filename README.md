@@ -10,3 +10,4 @@
 - [2009](https://prep2009.ife.org.mx/PREP2009/index_prep2009.html)
 - [2012](https://portalanterior.ine.mx/archivos3/portal/historico/contenido/Proceso_Electoral_Federal__2011-2012/)
 - [2015](https://prep2015.ine.mx/Nacional/VotosPorPartido/)
+- [2018](https://computos2018.ine.mx/#/descargaBase)
