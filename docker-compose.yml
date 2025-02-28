@@ -1,10 +1,9 @@
-version: "3.1"
 services:
-  nies:
+  coordejecu:
     build:
       context: .
       dockerfile: Dockerfile
-    image: nepolin/templater:latest
+    image: coordEjecu/clean_ine_data:latest
     command: bash
     volumes:
       - $PWD:/workdir
