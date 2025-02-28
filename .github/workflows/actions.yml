@@ -12,8 +12,6 @@ jobs:
       run: docker run coordEjecu/clean_ine_data:latest make check
     - name: Corre pruebas y evalua cobertura
       run: docker run coordEjecu/clean_ine_data:latest make tests
-    - name: Corre reporte
-      run: docker run -v $PWD:/workdir coordEjecu/clean_ine_data:latest make reports/diputados.pdf
     - name: Sube artefacto
       uses: actions/upload-artifact@v4
       with:
