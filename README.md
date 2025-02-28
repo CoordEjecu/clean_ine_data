@@ -11,3 +11,4 @@
 - [2012](https://portalanterior.ine.mx/archivos3/portal/historico/contenido/Proceso_Electoral_Federal__2011-2012/)
 - [2015](https://prep2015.ine.mx/Nacional/VotosPorPartido/)
 - [2018](https://computos2018.ine.mx/#/descargaBase)
+- [2021](https://computos2021.ine.mx/base-de-datos)
