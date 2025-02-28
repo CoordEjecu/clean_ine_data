@@ -12,3 +12,4 @@
 - [2015](https://prep2015.ine.mx/Nacional/VotosPorPartido/)
 - [2018](https://computos2018.ine.mx/#/descargaBase)
 - [2021](https://computos2021.ine.mx/base-de-datos)
+- [2024](https://prep2024.ine.mx/publicacion/nacional/base-datos)
