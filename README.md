@@ -6,3 +6,4 @@
 
 ## Step to use
 
+- [2006](https://portalanterior.ine.mx/documentos/proceso_2005-2006/Computos2006/bd_computos06.htm)
