@@ -48,6 +48,7 @@ describe("Test 2006 data", {
     n_rows_expected <- 22
     expect_equal(n_rows_expected, n_rows_obtained)
     n_cols_obtained <- ncol(obtained)
-    expect_true(n_cols_obtained > 1)
+    expect_false(n_cols_obtained > 1)
+    expect_true(n_cols_obtained == 1)
   })
 })
