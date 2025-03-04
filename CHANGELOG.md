@@ -15,10 +15,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-## [0.1.0] - 2024-02-06
+## [0.1.0] - 2025-03-03
 
 ### Added
 
-- Initial commit
+- `read_deputy_data()` y `read_deputy_data_2024()`
+
+### Removed
+
+- Tamplate tests
 
 [0.1.1]: https://github.com/CoordEjecu/plantilla_r/compare/v0.1.0...v0.1.1
